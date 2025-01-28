@@ -1,0 +1,7 @@
+main:
+  - title: "Research"
+    url: /research/
+  - title: "Books"
+    url: /books/
+  - title: "Publications"
+    url: /publications/
